@@ -4,6 +4,7 @@ ves_api_cert_request.sh
 -----------------------
 pre-requisites:
  - vesctl installed and added to $PATH
+ - Existing p12-bundle is valid and unexpired
  - VES_P12_PASSWORD environment variable exists
  - ~/.vesconfig exists and contains p12-bundle file path
  
