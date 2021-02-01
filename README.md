@@ -9,3 +9,5 @@ pre-requisites:
  - ~/.vesconfig exists and contains p12-bundle file path
  
 Script can be ran manually or set up to run periodically via cron 
+
+Visit https://gitlab.com/volterra.io/vesctl/-/tree/master for vesctl installation instructions
